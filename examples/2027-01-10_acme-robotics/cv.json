@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "lang": "fr",
+    "page": "A4",
+    "design": {
+      "preset": "ats-modern",
+      "date_format": "numeric"
+    },
+    "section_order": [
+      "summary",
+      "experience",
+      "education",
+      "projects",
+      "skills"
+    ],
+    "filename": "ALEX_MARTIN_CV_Acme_Robotics"
+  },
+  "basics": {
+    "name": "Alex Martin",
+    "headline": "Élève-ingénieur · Développement full-stack · Node.js · React · IA",
+    "headline_en": "Engineering student · Full-stack development & AI",
+    "email": "alex.martin@example.com",
+    "phone": "+33 6 00 00 00 00",
+    "location": "Lyon, France",
+    "links": [
+      {
+        "label": "linkedin.com/in/alex-martin-example",
+        "url": "https://www.linkedin.com/in/alex-martin-example/"
+      },
+      {
+        "label": "github.com/alex-martin-example",
+        "url": "https://github.com/alex-martin-example"
+      }
+    ],
+    "availability": "Recherche un stage de 4 mois à partir de février 2027",
+    "availability_en": "Seeking a 4-month internship starting February 2027"
+  },
+  "summary": "Élève-ingénieur en informatique, avec deux stages en développement web. J'aime construire des outils utiles de bout en bout : API, interface et automatisation. Je souhaite rejoindre une équipe produit sur des sujets web et IA.",
+  "summary_en": "Computer engineering student with two web development internships. I like building useful tools end to end: API, interface and automation. I want to join a product team working on web and AI.",
+  "experience": [
+    {
+      "org": "Acme Logistics",
+      "title": "Développeur Full-Stack — Stage",
+      "title_en": "Full-Stack Developer — Internship",
+      "start": "2026-02",
+      "end": "2026-06",
+      "location": "Lyon, France",
+      "bullets": [
+        "Développé une **API REST de 12 endpoints** (Node.js, Express) pour le suivi des expéditions.",
+        "Créé un tableau de bord React affichant l'état des livraisons en temps réel.",
+        "Écrit des **tests unitaires** (Jest) et mis en place l'intégration continue avec GitHub Actions.",
+        "Participé aux sprints de 2 semaines et aux revues de code."
+      ],
+      "bullets_en": [
+        "Built a **12-endpoint REST API** (Node.js, Express) to track shipments.",
+        "Created a React dashboard showing delivery status in real time.",
+        "Wrote **unit tests** (Jest) and set up continuous integration with GitHub Actions.",
+        "Took part in 2-week sprints and code reviews."
+      ]
+    },
+    {
+      "org": "Studio Exemple",
+      "title": "Développeur Web — Stage d'été",
+      "title_en": "Web Developer — Summer internship",
+      "start": "2025-06",
+      "end": "2025-08",
+      "location": "Lyon, France",
+      "bullets": [
+        "Intégré des maquettes Figma en pages responsives (Next.js, Tailwind CSS).",
+        "Mis en ligne le site sur Vercel et amélioré son score Lighthouse de 62 à 91."
+      ],
+      "bullets_en": [
+        "Turned Figma mock-ups into responsive pages (Next.js, Tailwind CSS).",
+        "Deployed the site on Vercel and raised its Lighthouse score from 62 to 91."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "org": "École Exemple d'Ingénieurs",
+      "degree": "Cycle ingénieur en informatique (Bac+5, en cours)",
+      "degree_en": "Engineering degree in computer science (Master's level, in progress)",
+      "start": "2025-09",
+      "end": "present",
+      "location": "Lyon, France",
+      "details": []
+    },
+    {
+      "org": "IUT Exemple",
+      "degree": "Bachelor universitaire de technologie (BUT) Informatique",
+      "degree_en": "Bachelor's degree in computer science (BUT)",
+      "start": "2022-09",
+      "end": "2025-06",
+      "location": "Lyon, France",
+      "details": [
+        "**Cours :** algorithmique, bases de données SQL, réseaux, développement web."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Résumeur d'articles",
+      "name_en": "Article summariser",
+      "subtitle": "Automatisation avec un LLM",
+      "subtitle_en": "LLM automation",
+      "url": "https://github.com/alex-martin-example/summariser",
+      "url_label": "github.com/alex-martin-example/summariser",
+      "date": "2026",
+      "bullets": [
+        "Script **Python** qui collecte des flux RSS chaque jour et les résume avec l'**API OpenAI**."
+      ],
+      "bullets_en": [
+        "**Python** script that collects RSS feeds daily and summarises them with the **OpenAI API**."
+      ]
+    }
+  ],
+  "certifications": [],
+  "skills": [
+    {
+      "label": "Langages",
+      "label_en": "Languages",
+      "items": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "label": "Web",
+      "label_en": "Web",
+      "items": [
+        "Node.js",
+        "Express",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "label": "IA et données",
+      "label_en": "AI & data",
+      "items": [
+        "API OpenAI",
+        "Pandas"
+      ]
+    },
+    {
+      "label": "Outils",
+      "label_en": "Tools",
+      "items": [
+        "Git/GitHub",
+        "GitHub Actions",
+        "Jest",
+        "Docker",
+        "Figma"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Français",
+      "name_en": "French",
+      "level": "langue maternelle",
+      "level_en": "native"
+    },
+    {
+      "name": "Anglais",
+      "name_en": "English",
+      "level": "professionnel (B2)",
+      "level_en": "professional (B2)"
+    }
+  ],
+  "interests": [
+    "Escalade",
+    "Photographie"
+  ],
+  "interests_en": [
+    "Climbing",
+    "Photography"
+  ]
+}

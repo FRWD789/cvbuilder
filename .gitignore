@@ -1,0 +1,18 @@
+# Personal data: never commit
+profile/master-profile.json
+output/
+suivi-candidatures.xlsx
+*.pdf
+*.docx
+!examples/**/*.pdf
+!examples/**/*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
